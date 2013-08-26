@@ -25,8 +25,8 @@ public class ReadTCMOnto {
 	public static void main(String[] args) throws ParserException,
 			OWLOntologyCreationException, OWLOntologyStorageException {
 
-		File file = new File("ontologies/TCMDemo_zh。owl");
-
+		//File file = new File("ontologies/TCMDemo_zh。owl");
+		File file = new File("ontologies/TCMDemo_zh.owl");
 		OWLOntologyManager manager;
 		OWLOntology localOntology = null;
 		OWLDataFactory factory;
