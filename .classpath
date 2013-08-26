@@ -13,5 +13,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/owlapi/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="/owlapi/lib/mockito-all-1.9.5-rc1.jar"/>
+	<classpathentry kind="lib" path="/owlapi/lib/owlapi-distribution-3.4.5.jar" sourcepath="/owlapi/lib/owlapi-src.jar"/>
+	<classpathentry kind="lib" path="/owlapi/lib/owlapi-src.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
